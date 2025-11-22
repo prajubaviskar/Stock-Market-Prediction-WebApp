@@ -48,4 +48,5 @@ Dynamic dashboard powered by Flask + PHP integration
 
 Prajakta Naval Baviskar
 Aspiring Data Analyst | Python | Power BI | SQL
-[LinkedIn Profile](https://www.linkedin.com/in/prajakta-baviskar1124b028b)
+
+https://www.linkedin.com/in/prajubaviskar1124b028b/
